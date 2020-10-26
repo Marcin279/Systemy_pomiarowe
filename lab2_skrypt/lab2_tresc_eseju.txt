@@ -1,0 +1,7 @@
+
+
+    Określ rok i miesiąc występowania średniej maksymalnej i minimalnej temperatury 
+
+    Wyznacz średnią temperaturę dla każdego roku, a następnie przedstaw ją na wykresie (oś y lata) 
+
+    Wyznacz średnie temperatury dla poszczególnych miesięcy na przestrzeni lat, a następnie przedstaw wykres przedstawiający tą średnią z zaznaczeniem odchylenia standardowego dla każdego z miesięcy (oś x miesiące) 
